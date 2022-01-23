@@ -1,0 +1,9 @@
+clipboard-indicator@tudmotu.com
+gsconnect@andyholmes.github.io
+GoogleEarthWallpaper@neffo.github.com
+transparent_panel@fawtytoo
+ControlBlurEffectOnLockScreen@pratap.fastmail.fm
+desktop-icons@csoriano
+ubuntu-appindicators@ubuntu.com
+ubuntu-dock@ubuntu.com
+hidetopbar@mathieu.bidon.ca
